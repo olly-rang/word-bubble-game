@@ -1,0 +1,36 @@
+{
+    "words": [
+        {
+            "kr": "강아지",
+            "en": "Puppy"
+        },
+        {
+            "kr": "고양이",
+            "en": "Cat"
+        },
+        {
+            "kr": "사자",
+            "en": "Lion"
+        },
+        {
+            "kr": "코끼리",
+            "en": "Elephant"
+        },
+        {
+            "kr": "기린",
+            "en": "Giraffe"
+        },
+        {
+            "kr": "토끼",
+            "en": "Rabbit"
+        },
+        {
+            "kr": "판다",
+            "en": "Panda"
+        },
+        {
+            "kr": "원숭이",
+            "en": "Monkey"
+        }
+    ]
+}
