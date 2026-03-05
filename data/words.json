@@ -1,0 +1,44 @@
+{
+    "words": [
+        {
+            "kr": "사과",
+            "en": "Apple"
+        },
+        {
+            "kr": "바나나",
+            "en": "Banana"
+        },
+        {
+            "kr": "포도",
+            "en": "Grape"
+        },
+        {
+            "kr": "오이",
+            "en": "Cucumber"
+        },
+        {
+            "kr": "당근",
+            "en": "Carrot"
+        },
+        {
+            "kr": "가지",
+            "en": "Eggplant"
+        },
+        {
+            "kr": "햇살",
+            "en": "Sunshine"
+        },
+        {
+            "kr": "바람",
+            "en": "Wind"
+        },
+        {
+            "kr": "구름",
+            "en": "Cloud"
+        },
+        {
+            "kr": "평온",
+            "en": "Peace"
+        }
+    ]
+}
